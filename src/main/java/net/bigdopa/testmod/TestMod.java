@@ -1,5 +1,6 @@
 package net.bigdopa.testmod;
 
+import net.bigdopa.testmod.blocks.ModBlock;
 import net.bigdopa.testmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,5 +14,6 @@ public class TestMod implements ModInitializer {
 	public void onInitialize()
 	{
 		ModItems.regsiterModItems();
+		ModBlock.registerModBlock();
 	}
 }

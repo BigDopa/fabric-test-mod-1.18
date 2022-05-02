@@ -1,3 +1,8 @@
 {
-  "item.testmod.glizzy_dog": "Glizzy Dog"
+  "item.testmod.glizzy_dog": "Glizzy Dog",
+
+  "block.testmod.cheese_block": "Cheese Block",
+  "block.testmod.cheese_ore": "Cheese Ore",
+  "block.testmod.deepslate_cheese_ore": "Deepslate Cheese Ore",
+  "block.testmod.netherack_cheese_ore": "Netherack Cheese Ore"
 }
