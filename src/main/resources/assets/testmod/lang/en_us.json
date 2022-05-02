@@ -1,6 +1,7 @@
 {
   "item.testmod.glizzy_dog": "Glizzy Dog",
   "item.testmod.cheese_ingot": "Cheese Ingot",
+  "item.testmod.raw_cheese_ore": "Raw Cheese Ore",
 
   "block.testmod.cheese_block": "Cheese Block",
   "block.testmod.cheese_ore": "Cheese Ore",
